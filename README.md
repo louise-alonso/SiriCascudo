@@ -1,6 +1,6 @@
 # SiriCascudo - Sistema de Pedidos em Java
 
-![SiriCascudo Logo]([https://admin.cmpedidos.com.br/foto/496//img/logo/Siri-Cascudo-Lanches.png])
+![SiriCascudo Logo](https://admin.cmpedidos.com.br/foto/496//img/logo/Siri-Cascudo-Lanches.png)
 
 Este é um projeto desenvolvido como prova para a disciplina de Java P2A, utilizando interface gráfica (UI) com a biblioteca Swing e a versão Java 20. O objetivo do programa é simular o processo de cadastro de pedidos, proporcionando uma visão tanto para o garçom e chef, quanto para a comanda sendo a visão dos responsáveis pelo pagamento.
 
